@@ -16,13 +16,19 @@ and R I was able to visualize my reading habits for the last 6 months.
 
 ## Results ##
 
-![Main graph](Graphs/Main.png)
+<img src="Graphs/Main.png" alt="Main" width="700"/>
 
-![pie graph](Graphs/pie.png)
+---
 
-![line graph](Graphs/line.png)
+<img src="Graphs/pie.png" alt="pie" width="700"/>
 
-![bar graph](Graphs/bar.png)
+---
+
+<img src="Graphs/line.png" alt="line" width="700"/>
+
+---
+
+<img src="Graphs/bar.png" alt="bars" width="700"/>
 
 
 ## Future Expansion ##

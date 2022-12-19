@@ -3,7 +3,6 @@
 <p>
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="R" src="https://img.shields.io/badge/-R-8DD6F9?style=flat-square&logo=R&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="markdown" src="https://img.shields.io/badge/-Markdown-5849BE?style=flat-square&logo=Markdown&logoColor=white" />
 
 </p>

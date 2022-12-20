@@ -5,7 +5,7 @@ library(readxl)
 library(lubridate)
 
 # Working with data
-auth <- read_excel("C:/Users/12034/Desktop/winter/BookLog/src/auth.xlsx")
+auth <- read_excel("C:/Users/12034/Desktop/Fall2022/BookLog/src/auth.xlsx")
 
 # read in from mongodb
 connection_string = sprintf('mongodb+srv://%s:%s@testmongo.lpnpetn.mongodb.net/?retryWrites=true&w=majority',auth$auth[1], auth$auth[2])

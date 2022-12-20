@@ -1,6 +1,7 @@
 library(mongolite)
 library(jsonlite)
 library(tidyverse)
+library(readxl)
 
 # adding new books to mongodb with command line
 

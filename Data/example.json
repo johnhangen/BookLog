@@ -1,9 +1,9 @@
 {
-  "Title": [],
-  "Author": [],
-  "Genre": [],
-  "Start_date": [],
-  "End_date": [],
-  "Num_pages": [],
-  "Rating": []
+  "Title": ["Do Androids Dream of Electric Sheep?"],
+  "Author": ["Philip K. Dick"],
+  "Genre": ["Science Fiction"],
+  "Start_date": ["12/19/2022"],
+  "End_date": ["12/24/2022"],
+  "Num_pages": [230],
+  "Rating": [4]
 }

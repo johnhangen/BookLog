@@ -10,8 +10,7 @@
 
 ## Methodology ##
 
-I have always been interested in my reading habits especially how they relate to the genre I am reading. Using mongodb
-and R I was able to visualize my reading habits for the last 6 months.
+I have recently been interested in my reading habits, especially as it relates to genre. I have been collecting data about my reading habits for the last six months and stored them on MongoDB. I used MongoDB instead of Mysql due to the flexibility that it can provide, especially if I want to add information about books later. As you can see below, I read mostly science fiction with some Fantasy. I will continue updating this visualization as I finish more books in 2023.
 
 ## Results ##
 

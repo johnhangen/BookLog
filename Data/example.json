@@ -1,9 +1,9 @@
 {
-  "Title": ["Do Androids Dream of Electric Sheep?"],
-  "Author": ["Philip K. Dick"],
-  "Genre": ["Science Fiction"],
-  "Start_date": ["12/19/2022"],
-  "End_date": ["12/24/2022"],
-  "Num_pages": [230],
-  "Rating": [4]
+  "Title": ["Ruin and Rising", "Lessons in Chemistry", "The Collapsing Empire", "Cyber War: The Next Threat to National Security and What to Do About It"],
+  "Author": ["Leigh Bardugo", "Bonnie Garmus", "John Scalzi", "Richard A. Clarke"],
+  "Genre": ["Fantasy", "Historical Fiction","Science Fiction", "Non-Fiction"],
+  "Start_date": ["12/26/2022", "1/2/2023", "1/4/2023", "1/5/2023"],
+  "End_date": ["1/3/2023", "1/3/2023", "1/5/2023", "1/7/2023"],
+  "Num_pages": [417, 400, 329, 279],
+  "Rating": [4.5, 4, 5, 5]
 }
